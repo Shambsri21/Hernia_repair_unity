@@ -7,10 +7,6 @@ Welcome to the GitHub repository for the Hernia Repair Simulation project develo
 
 - [Overview](#overview)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
@@ -36,3 +32,6 @@ Before you begin, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/Shambsri21/Hernia_repair_unity.git
+
+### Contact
+shambhala.srivastava@gmail.com
