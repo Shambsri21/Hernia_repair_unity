@@ -1,8 +1,8 @@
+# Team: Search Bots
 # Hernia Repair Simulation in Unity
 Doctors Guide ;)
 
 Welcome to the GitHub repository for the Hernia Repair Simulation project developed in Unity by Shambsri21. This project aims to provide a realistic VR simulation for educational or training purposes in the field of medical surgery, specifically hernia repair.
-# Team: Search Bots
 ## Team Members: Savita Srivastava(Team Lead), Kanishk Kulshreshta, Divyansh Nagpal, Samarth Mukhija
 
 ## Table of Contents
