@@ -15,6 +15,9 @@ Welcome to the GitHub repository for the Hernia Repair Simulation project develo
 
 This project simulates the surgical procedure for hernia repair in a virtual reality environment. It's designed to give medical students, professionals, or enthusiasts a hands-on experience with the surgical techniques involved in hernia repair. The project utilizes Unity's XR Interaction Toolkit along with custom scripts for realistic interaction and visual feedback.
 
+![Screenshot 2025-02-20 142722](https://github.com/user-attachments/assets/6861e62b-9f8d-4270-8fc4-8bae2e4c1d20)
+![Screenshot 2025-02-20 142606](https://github.com/user-attachments/assets/8b01125f-c610-49d2-9128-3bbde4d4f07d)
+
 ## Setup
 
 ### Prerequisites
