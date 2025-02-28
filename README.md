@@ -40,3 +40,5 @@ Before you begin, ensure you have the following installed:
 
 ### Contact
 shambhala.srivastava@gmail.com
+
+here is the assets file drive link for the project: https://drive.google.com/file/d/101PBVkrMlUBv4MQxk9ICVH_BaO4BQFsy/view?usp=sharing
